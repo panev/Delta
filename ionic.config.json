@@ -1,0 +1,8 @@
+{
+  "name": "Delta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1f034390"
+}
